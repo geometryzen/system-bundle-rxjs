@@ -1,6 +1,6 @@
 {
     "name": "@geometryzen/system-bundle-rxjs",
-    "version": "0.9.0",
+    "version": "0.9.1",
     "description": "rxjs bundle in system format",
     "module": "./es2015/index.js",
     "exports": {
